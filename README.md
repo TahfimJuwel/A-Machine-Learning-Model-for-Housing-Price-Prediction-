@@ -1,0 +1,2 @@
+# A-Machine-Learning-Model-for-Housing-Price-Prediction-
+A comprehensive machine learning project to predict housing sale prices. This notebook covers data cleaning, feature engineering, and a comparative analysis of multiple regression models, including Linear Regression, Ridge, Lasso, and Random Forest. Feature selection and one-hot encoding are key techniques used to optimize model performance.
